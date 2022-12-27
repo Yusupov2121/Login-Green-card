@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+background: url(photo_2022-12-20_14-54-52.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%px;
+padding-top: 150px;
+height: 1100px;
+
+}
+.block{
+    width: 700px;
+    margin: 0px auto;
+    height: 900px;
+    border-radius: 10px;
+    border-radius: 2px solid rgb(224, 213, 192);
+    background-color: white;
+}
+fieldset{
+    width: 650px;
+    
+    margin: 0px auto;
+    height: 880px;
+}
+.rang{
+    width: 9px;
+}
+.radio-div{
+    gap: 10px;
+    display: flex;
+align-items: center;
+}
+form{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+legend{
+    text-align: center;
+}
+.div-text{
+    display: flex;
+    justify-content: space-between;
+}
+.colors{
+    width: 170px;
+    height: 30px;
+    text-indent: 20px;
+    background-color: #C3C3C3;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.colorm{
+    width: 150px;
+    margin: 0px auto;
+    height: 15px;
+}
+option{
+    width: 170px;
+    height: 30px;
+    text-indent: 20px;
+    background-color: #C3C3C3;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+select{
+    width: 170px;
+    height: 30px;
+    text-indent: 20px;
+    background-color: #C3C3C3;   
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
+input{
+    width: 170px;
+    height: 30px;
+    text-indent: 20px;
+    background-color: #C3C3C3;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+textarea{
+    text-indent: 20px;
+    background-color: #C3C3C3;
+    border: none;
+    outline: none;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px; 
+}
+.cek{
+    width: 20px;
+    margin-right: 200px;
+}
+.button{
+    margin: 10px auto;
+    width: 100px;
+    height: 30px;
+    background-color: #C3C3C3;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    text-indent: 0px
+}
